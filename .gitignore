@@ -1,0 +1,38 @@
+# Python生成文件
+__pycache__/
+*.py[cod]
+
+# Python虚拟环境
+.venv/
+venv/
+
+# 编辑器配置
+.idea/
+.vscode/
+
+# API密钥和环境变量
+.env
+.env.*
+!.env.example
+
+# 数据集和缓存
+data/
+datasets/
+hf-cache/
+hf_cache/
+hf_cahce/
+
+# 模型和训练检查点
+model/
+models/
+checkpoints/
+checkpoint*/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.gguf
+
+# 系统文件
+Thumbs.db
+.DS_Store
