@@ -1,6 +1,7 @@
-# AI Learn Journey
+# AI Learning Journey
 
+这个仓库记录我围绕NLP与LLM实验进行的持续学习。
 
+我主要通过实际运行和修改代码学习，并在实验过程中补充Python、数据处理、PyTorch和工程基础。
 
-记录我从传统机器学习，RoBERTA微调到LoRA和LLM应用的自学过程，并持续更新新的学习内容
-
+仓库内容和学习方向会根据实际项目、实验结果与研究任务持续调整。
