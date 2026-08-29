@@ -36,3 +36,6 @@ checkpoint*/
 # 系统文件
 Thumbs.db
 .DS_Store
+
+# 基础练习生成的输出文件
+00-foundations/**/output/
