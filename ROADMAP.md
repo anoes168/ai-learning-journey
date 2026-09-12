@@ -1,10 +1,10 @@
 # Learning Roadmap
 
-## 文件核对更新（2026-09-11）
+## 近期安排（2026-09-12）
 
-下面原有路线保留作为阶段记录。当前本地 `homework/code/qwen-llm/` 已有批量推理、SFT 数据构造和 QLoRA 训练代码，并有保存的适配器产物，因此实践内容已超过原先“学习 LLM 批量调用”的阶段。此次仅检查文件，尚未重新验证运行结果或掌握程度。
+近期主要学习和维护 Agent 项目，暂时不继续学习微调、LoRA 等内容。这个仓库会逐步提交以前写过的旧代码，主要使用 AI 帮助检查，并对路径等内容做最小修改。
 
-Agent 项目在独立仓库开展：[学习入口](https://github.com/anoes168/agent-learn)。当前目的是通过实践熟悉架构，暂不制定进度或周期。
+Agent 项目单独维护：[agent-learn](https://github.com/anoes168/agent-learn)。
 
 
 
@@ -34,11 +34,11 @@ Agent 项目在独立仓库开展：[学习入口](https://github.com/anoes168/a
 
 
 
-- 学习LLM批量调用
+- 主要学习和维护Agent项目
 
-- 使用LLM完成讽刺文本分类
+- 整理并提交以前写过的实验代码
 
-- 对比RoBERTa、LoRA与LLM的实验结果
+- 暂停新增微调和LoRA学习内容
 
 
 

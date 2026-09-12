@@ -10,3 +10,5 @@
 
 - [总学习路线](ROADMAP.md)
 - [Agent 学习（独立仓库）](https://github.com/anoes168/agent-learn)
+
+近期主要维护独立的 Agent 项目。这个仓库暂时用于整理以前写过的代码，并在保留原始思路的基础上做路径等最小修改。
